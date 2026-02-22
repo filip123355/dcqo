@@ -1,2 +1,6 @@
 /venv
 *.txt
+.env
+notebooks/decoded-quantum-interferometry.ipynb
+notebooks/resource-estimation.ipynb
+notebooks/shors.ipynb
